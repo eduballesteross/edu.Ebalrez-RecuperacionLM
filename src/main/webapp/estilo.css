@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+th{
+	background-color: blue;
+
+}
+
+table{
+	
+	color: white;
+	border: solid black;
+	
+}
+
+caption{
+	text-transform: uppercase;
+	color: black;
+	letter-spacing: 5px;
+	text-decoration: double red;
+	
+}
+
+
+table, tr,th,td{
+	border: solid black;
+	border-collapse: collapse;
+}
+
+td:hover{
+	background-color: blue;
+}
+
+tr,td{
+	background-color: green;
+}
